@@ -1,4 +1,4 @@
-# H1 ENSE 374 Lab 1: Visual Studio Code, Git and Github
+# ENSE 374 Lab 1: Visual Studio Code, Git and Github
 
 ---
 
